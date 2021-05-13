@@ -1,0 +1,22 @@
+<Material MtlFlags="557312" DccMaterialHash="0" vertModifType="0">
+ <SubMaterials>
+  <Material Name="X" MtlFlags="524416" DccMaterialHash="0" Shader="Terrain.Layer" GenMask="200000000" StringGenMask="%TEMP_TERRAIN" SurfaceType="mat_default" Diffuse="1,0,0,1" Specular="0.045000002,0.045000002,0.045000002,1" Opacity="1" Shininess="10" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="textures/defaults/defaultnouvs.dds"/>
+   </Textures>
+   <PublicParams BlendFalloff="1" DetailTextureStrength="1" BlendFactor="0" IndirectColor="0.25,0.25,0.25"/>
+  </Material>
+  <Material Name="Y" MtlFlags="524416" DccMaterialHash="0" Shader="Terrain.Layer" GenMask="200000000" StringGenMask="%TEMP_TERRAIN" SurfaceType="mat_default" Diffuse="0,1,0,1" Specular="0.045000002,0.045000002,0.045000002,1" Opacity="1" Shininess="10" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="textures/defaults/defaultnouvs.dds"/>
+   </Textures>
+   <PublicParams BlendFalloff="1" DetailTextureStrength="1" BlendFactor="0" IndirectColor="0.25,0.25,0.25"/>
+  </Material>
+  <Material Name="Z" MtlFlags="524416" DccMaterialHash="0" Shader="Terrain.Layer" GenMask="200000000" StringGenMask="%TEMP_TERRAIN" SurfaceType="mat_default" Diffuse="0,0,1,1" Specular="0.045000002,0.045000002,0.045000002,1" Opacity="1" Shininess="10" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="textures/defaults/defaultnouvs.dds"/>
+   </Textures>
+   <PublicParams BlendFalloff="1" DetailTextureStrength="1" BlendFactor="0" IndirectColor="0.25,0.25,0.25"/>
+  </Material>
+ </SubMaterials>
+</Material>

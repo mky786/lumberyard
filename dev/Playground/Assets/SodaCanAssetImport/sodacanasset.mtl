@@ -1,0 +1,11 @@
+<Material MtlFlags="524544" DccMaterialHash="768852916" vertModifType="0">
+ <SubMaterials>
+  <Material Name="principledshader1" MtlFlags="524416" DccMaterialHash="1770648259" Shader="Illum" GenMask="200800080000003" StringGenMask="%ALLOW_SILHOUETTE_POM%ALLOW_SPECULAR_ANTIALIASING%FX_DISSOLVE%NORMAL_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_default" Diffuse="1,1,1,1" Specular="0.2,0.2,0.2,1" Opacity="1" Shininess="20" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="assets/sodacanassetimport/sodacanasset_diff.dds"/>
+    <Texture Map="Bumpmap" File="assets/sodacanassetimport/sodacanasset_ddn.dds"/>
+   </Textures>
+   <PublicParams DissolveColor="1,1,1" EmittanceMapGamma="1" DissolveEdgeThickness="0" SSSIndex="0" DissolvePercentage="0" IndirectColor="0.25,0.25,0.25"/>
+  </Material>
+ </SubMaterials>
+</Material>

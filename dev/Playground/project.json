@@ -1,0 +1,14 @@
+{
+    "project_name": "Playground",
+    "product_name": "Playground",
+    "executable_name": "PlaygroundLauncher",
+    "modules" : [],
+    "project_id": "{A25E64D3-C76E-48A6-8EEC-F5838E011F26}",
+
+    "android_settings" : {
+        "package_name" : "com.lumberyard.yourgame",
+        "version_number" : 1,
+        "version_name" : "1.0.0",
+        "orientation" : "landscape"
+    }
+}

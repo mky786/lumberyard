@@ -1,0 +1,6 @@
+<download name="Modelling" type="Map">
+ <index src="filelist.xml" dest="filelist.xml"/>
+ <files>
+  <file src="level.pak" dest="level.pak" size="7929" md5="63138e984cdc44ddf4aa8046ee3b0eb8"/>
+ </files>
+</download>

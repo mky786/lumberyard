@@ -1,0 +1,6 @@
+<download name="RTS" type="Map">
+ <index src="filelist.xml" dest="filelist.xml"/>
+ <files>
+  <file src="level.pak" dest="level.pak" size="41913" md5="0fb090317a8cb64ea47dc9b8c12e17ff"/>
+ </files>
+</download>

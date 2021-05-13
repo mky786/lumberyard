@@ -1,0 +1,14 @@
+{
+    "project_name": "Dao",
+    "product_name": "Dao",
+    "executable_name": "DaoLauncher",
+    "modules" : [],
+    "project_id": "{18E45B02-D8CC-4034-A0BC-B5D3049222DF}",
+
+    "android_settings" : {
+        "package_name" : "com.lumberyard.yourgame",
+        "version_number" : 1,
+        "version_name" : "1.0.0",
+        "orientation" : "landscape"
+    }
+}

@@ -1,0 +1,6 @@
+<download name="PhysX" type="Map">
+ <index src="filelist.xml" dest="filelist.xml"/>
+ <files>
+  <file src="level.pak" dest="level.pak" size="7831" md5="4614f5d7cc51645b145ad6c068b67ec5"/>
+ </files>
+</download>

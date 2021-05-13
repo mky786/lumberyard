@@ -1,0 +1,9 @@
+{
+    "description": "Configuration for Dao",
+    "visual_studio_name": "Dao",
+    "comment" : "",
+    "game_projects" : "Dao",
+
+    "modules" : [
+    ]
+}

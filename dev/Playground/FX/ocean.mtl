@@ -1,0 +1,6 @@
+<Material MtlFlags="559106" DccMaterialHash="0" Shader="Watervolume" GenMask="8000004B" StringGenMask="" SurfaceType="" Diffuse="0.0085681258,0.46778381,0.83879912,1" Specular="0.014443845,0.52711523,1,1" Opacity="1" Shininess="10" vertModifType="0" LayerAct="1">
+ <Textures>
+  <Texture Map="Diffuse" File="assets/full_manual/full_manual_uv_defaultmaterial_diff.dds"/>
+ </Textures>
+ <PublicParams NormalsScale="0.25" SoftIntersectionFactor="1" Tilling="0.1" FoamAmount="1" DetailNormalsScale="0.5" EnvCubeReflMul="1" VertexWaveScale="0.125" DetailTilling="2.5" EnvCubeScale="20" RealtimeReflMul="1" FoamSoftIntersectionFactor="0.75" FoamTilling="12" RainTilling="1" WaterFlowSpeed="0"/>
+</Material>
